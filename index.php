@@ -60,6 +60,7 @@
                     <p>Hallo! Saya Luthfi Ardinata. Saya tertarik dengan pembuatan website, terutama di bagian front-end dan
                         ini adalah website saya.<br>
                         Selamat datang.</p>
+                        <p>Bewok Gay</p>    
                 </div>
                 <div class="col-md-6 p-5 ">
                     <h2>Bio</h2>
