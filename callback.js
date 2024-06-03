@@ -9,3 +9,4 @@ function perintah(callback){
 }
 
 console.log(perintah(tambah))
+console.log(perintah(tambah))
